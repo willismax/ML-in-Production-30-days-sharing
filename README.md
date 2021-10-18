@@ -2,7 +2,7 @@
 
 2021 IT 邦幫忙鐵人賽 「從 AI 落地談 MLOps 系列」系列文
 
-![](https://d1dwq032kyr03c.cloudfront.net/images/ironman_sticker/13/ai-and-data.png?sticker "第 13 屆鐵人賽鍊成")
+[![](https://d1dwq032kyr03c.cloudfront.net/images/ironman_sticker/13/ai-and-data.png?sticker "第 13 屆鐵人賽鍊成")](https://ithelp.ithome.com.tw/users/20121130/ironman/4015)
 
 [第 13 屆鐵人賽鍊成](https://ithelp.ithome.com.tw/users/20121130/ironman/4015)
 [![](https://img.shields.io/badge/iThome%E9%90%B5%E4%BA%BA%E8%B3%BD2021-%E5%A8%81%E5%88%A9%E6%96%AF-blue)](https://ithelp.ithome.com.tw/users/20121130/ironman/4015)
